@@ -1,3 +1,8 @@
+.main-body{
+    min-width: 700px;
+    min-height: 500px;
+}
+
 .github-pic{
     background-image: url(../img/github.jpg);
     background-color: #000000;
